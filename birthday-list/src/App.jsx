@@ -10,6 +10,7 @@ function App() {
     return (
         <div>
             <h1>Workshop 1 : birthday List Project</h1>
+            <h2>Punsan Somkla 654259026</h2>
             <main>
               <section className='container'>
                 <h3>{people.length} birthday today</h3>
